@@ -1,0 +1,13 @@
+C:\Users\dude\source\repos\ООп5\ООп5\bin\Debug\netcoreapp3.1\ООп5.exe
+C:\Users\dude\source\repos\ООп5\ООп5\bin\Debug\netcoreapp3.1\ООп5.deps.json
+C:\Users\dude\source\repos\ООп5\ООп5\bin\Debug\netcoreapp3.1\ООп5.runtimeconfig.json
+C:\Users\dude\source\repos\ООп5\ООп5\bin\Debug\netcoreapp3.1\ООп5.runtimeconfig.dev.json
+C:\Users\dude\source\repos\ООп5\ООп5\bin\Debug\netcoreapp3.1\ООп5.dll
+C:\Users\dude\source\repos\ООп5\ООп5\bin\Debug\netcoreapp3.1\ООп5.pdb
+C:\Users\dude\source\repos\ООп5\ООп5\obj\Debug\netcoreapp3.1\ООп5.csprojAssemblyReference.cache
+C:\Users\dude\source\repos\ООп5\ООп5\obj\Debug\netcoreapp3.1\ООп5.AssemblyInfoInputs.cache
+C:\Users\dude\source\repos\ООп5\ООп5\obj\Debug\netcoreapp3.1\ООп5.AssemblyInfo.cs
+C:\Users\dude\source\repos\ООп5\ООп5\obj\Debug\netcoreapp3.1\ООп5.csproj.CoreCompileInputs.cache
+C:\Users\dude\source\repos\ООп5\ООп5\obj\Debug\netcoreapp3.1\ООп5.dll
+C:\Users\dude\source\repos\ООп5\ООп5\obj\Debug\netcoreapp3.1\ООп5.pdb
+C:\Users\dude\source\repos\ООп5\ООп5\obj\Debug\netcoreapp3.1\ООп5.genruntimeconfig.cache
